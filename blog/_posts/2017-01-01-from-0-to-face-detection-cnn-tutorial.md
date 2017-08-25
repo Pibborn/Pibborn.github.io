@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ! 'From 0 to Face Detection: Convolutional Neural Networks Tutorial with Python'
-permalink: cnn-tutorial/
+permalink: blog/cnn-tutorial/
 mathjax: true
 categories: neural-nets machine-learning tutorial
 ---
