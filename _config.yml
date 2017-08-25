@@ -16,6 +16,8 @@
 title: Mattia Cerrato's blog
 email: mattia.cerrato@edu.unito.it
 description: > # this means to ignore newlines until "baseurl:"
+    I am a PhD student at the University of Torino, Italy. My focus is Deep Learning and
+    Representation Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
