@@ -27,8 +27,6 @@ There are at least three elements that are needed to define a Neural Network mod
 - An **activation rule**: a function that determines how the neuron outputs values. In a Perceptron architecture a neuron can either be activated (output value 1) or not (output value 0), but that's not the case in a Convolutional Neural Network.
 - An **update rule**: a function that modifies the weights of the connections over time by looking at the final performance of the network. 
 
-[[MORE]]
-
 But even before this, the basic building block of a neural network is the artificial neuron:
 
 ![neuron](http://www.theprojectspot.com/images/post-assets/an.jpg)
